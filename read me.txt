@@ -1,0 +1,4 @@
+step1- open the main.py file
+step2- run command- streamlit run main.py
+step3- upload csv file
+step4- click profiling 
